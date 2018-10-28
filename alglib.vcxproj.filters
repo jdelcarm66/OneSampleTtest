@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\alglibinternal.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\alglibmisc.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\ap.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\dataanalysis.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\diffequations.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\fasttransforms.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\integration.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\interpolation.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\linalg.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\optimization.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\solvers.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\specialfunctions.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\statistics.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="One_Sample_T_Test.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\alglibinternal.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\alglibmisc.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\ap.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\dataanalysis.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\diffequations.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\fasttransforms.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\integration.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\interpolation.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\optimization.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\solvers.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\specialfunctions.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\statistics.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\stdafx.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\GitHub\alglib\alglib-3.14.0.cpp.gpl\cpp\src\linalg.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
